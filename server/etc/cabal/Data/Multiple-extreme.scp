@@ -1,0 +1,10 @@
+
+[Multiple]	All_M	PC_M	Free_P	FreePC_P	Premium_P	PremiumPC_P	Remark
+0	1000	1000	0	0	0	0	人物经验	//EXP Rate
+1	15000	15000	0	0	0	0	技能经验	//Skill EXP Rate
+2	10000	10000	0	0	0	0	制造经验	//Craft Rate
+3	500	500	0	0	0	0	装备暴率	//Drop Rate
+4	100	100	0	0	0	0	特殊物品暴率(含钱、钱堆)	//ALZ Bomb
+5	100	100	0	0	0	0	Alz 金钱	//ALZ Amount
+6	10000	10000	0	0	0	0	宠物经验 	//PetEXP Rate
+7	50000	50000	0	0	0	0	WExp		//AXP
