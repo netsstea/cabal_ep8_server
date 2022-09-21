@@ -44,10 +44,14 @@ docker-compose exec mssql sh restoredb.sh
 Start database agents
 ```cmd
 docker-compose up -d global_db_agent auth_db_agent cash_db_agent event_db_agent pc_bang_db_agent db_agent_01 rock_and_roll_its
+
+docker-compose down global_db_agent auth_db_agent cash_db_agent event_db_agent pc_bang_db_agent db_agent_01 rock_and_roll_its
 ```
 Start Global Manager Server
 ```cmd
 docker-compose up -d global_mgr_svr
+
+docker-compose down global_mgr_svr
 ```
 Wait loading Global Manager Server (~20-30 sec)
 
@@ -55,6 +59,8 @@ Start other services
 
 ```cmd
 docker-compose up -d party_svr_01 chat_node_01 event_mgr_svr login_svr_01 agent_shop_01
+
+docker-compose down party_svr_01 chat_node_01 event_mgr_svr login_svr_01 agent_shop_01
 ```
 
 Start world server (channels)

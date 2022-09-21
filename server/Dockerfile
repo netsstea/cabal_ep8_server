@@ -51,7 +51,7 @@ RUN dos2unix /etc/cabal/Template/conf/*.ini
 
 RUN cabal_create_server 1
 RUN cabal_create_chanel 1 1
-# RUN cabal_create_chanel 1 2
+RUN cabal_create_chanel 1 2
 # RUN cabal_create_chanel 1 3
 # RUN cabal_create_chanel 1 4
 # RUN cabal_create_chanel 1 5
