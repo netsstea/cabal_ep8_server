@@ -1,0 +1,14 @@
+#!/bin/sh
+ 
+
+network=`cat /etc/hosts | grep gms | grep -v ^# |awk '{print $1}'`
+network=`echo ${network%.*}`
+
+servers=`cat /etc/hosts | grep -v ^# | grep ^$network | grep -v mrtg | cut -f2`
+
+echo scp all...
+for server in $servers; do
+    scp $1 $server:$2
+done
+wait
+echo complete!

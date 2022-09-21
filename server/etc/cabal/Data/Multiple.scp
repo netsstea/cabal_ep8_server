@@ -1,10 +1,10 @@
 
 [Multiple]	All_M	PC_M	Free_P	FreePC_P	Premium_P	PremiumPC_P	Remark
-0	25000	25000	0	0	0	0	EXP_Rate
-1	1000	1000	0	0	0	0	SkillEXP_Rate
-2	1000	1000	0	0	0	0	CraftEXP_Rate
-3	100	100	0	0	0	0	Drop_Rate
-4	200	200	0	0	0	0	AlzBomb_Rate
-5	200	200	0	0	0	0	Alz_Rate
-6	1000	1000	0	0	0	0	PetEXP_Rate
-7	1000	1000	0	0	0	0	WarEXP_Rate
+0	500	6000	0	0	0	0	EXP_Rate
+1	15000	15000	0	0	0	0	SkillEXP_Rate
+2	1000	3000	0	0	0	0	CraftEXP_Rate
+3	150	500	0	0	0	0	Drop_Rate
+4	150	500	0	0	0	0	AlzBomb_Rate
+5	150	3000	0	0	0	0	Alz_Rate
+6	3000	3000	0	0	0	0	PetEXP_Rate
+7	300	300	0	0	0	0	WarEXP_Rate
