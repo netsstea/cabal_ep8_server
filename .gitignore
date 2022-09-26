@@ -2,4 +2,5 @@
 .vscode
 .idea
 db/data/*
+db/data1/*
 !db/data/.gitkeep
