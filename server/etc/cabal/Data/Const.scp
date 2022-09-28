@@ -197,7 +197,7 @@ Specl	1	12	8
 [Multiple_Base]	Value	Remark
 0	25	프리미엄 기본 배율
 1	100	해외 배율
-2	1	드롭 회수
+2	2	드롭 회수
 
 
 [Multiple_Guide]	Free	FreePC	Premium	PremiumPC	Default_Value	Calc
@@ -796,5 +796,3 @@ PCPremium_P	X	X	X	O	0	plus
 5	125	256	256
 6	140	512	512
 7	160	1024	1024
-8	180	2048	2048
-9	190	65536	65536
