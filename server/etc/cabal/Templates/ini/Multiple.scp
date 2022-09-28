@@ -1,0 +1,10 @@
+
+[Multiple]	All_M	PC_M	Free_P	FreePC_P	Premium_P	PremiumPC_P	Remark
+0	a00	a00	0	0	0	0	EXP_Rate
+1	b00	b00	0	0	0	0	SkillEXP_Rate
+2	c00	c00	0	0	0	0	CraftEXP_Rate
+3	d00	d00	0	0	0	0	Drop_Rate
+4	e00	e00	0	0	0	0	AlzBomb_Rate
+5	f00	f00	0	0	0	0	Alz_Rate
+6	g00	g00	0	0	0	0	PetEXP_Rate
+7	h00	h00	0	0	0	0	WarEXP_Rate

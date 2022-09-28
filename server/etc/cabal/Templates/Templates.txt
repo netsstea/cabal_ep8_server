@@ -1,0 +1,20 @@
+1 Normal
+2 PK
+3 Premium
+4 Premium PK
+5 War
+6 Premium War
+7 Maintanance
+8 Trade
+9 Tierra Gloriosa
+10 Normal/Forcecalibur/TG
+11 Normal/War/TG
+12 PK/War/TG
+13 Normal/PK/Premium War/TG
+14 Normal/PK/War/TG
+15 Normal/Premium/Premium PK/Premium War/TG
+16 Normal/Premium/Forcecalibur/TG
+17 Normal/Premium PK/Forcecalibur/TG
+18 Normal/Premium War/TG
+19 Forcecalibur/TG
+20 Premium PK/Forcecalibur/TG

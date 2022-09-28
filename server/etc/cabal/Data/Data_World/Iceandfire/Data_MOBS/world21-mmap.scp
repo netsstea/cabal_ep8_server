@@ -1,0 +1,151 @@
+																			
+																			
+[MMap]	SpeciesIdx	PosX	PosY	Width	Height	SpwnInterval	SpawnDefault	EvtProperty	EvtMobs	EvtInterval	MissionGate	PerfectDrop	Type	Min	Max	Authority	Server_Mob	Loot_Delay	
+0	1970	206	55	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+1	1970	206	59	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+2	1970	206	51	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+3	1970	199	50	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+4	1971	210	47	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+5	1971	205	44	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+6	1971	201	57	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+7	1972	201	53	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+8	1309	125	101	11	11	86400000	1	<null>	<null>	<null>	0	1	1	1	1	0	116	30000
+9	1970	204	188	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+10	1970	206	194	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+11	1970	202	193	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+12	1970	201	187	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+13	1971	203	198	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+14	1971	209	199	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+15	1971	198	189	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+16	1972	197	184	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+17	1973	195	189	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+18	1966	50	187	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+19	1966	45	194	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+20	1966	49	193	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+21	1966	55	187	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+22	1967	49	190	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+23	1967	55	190	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+24	1967	52	191	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+25	1968	58	183	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+26	1969	62	188	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+27	1966	44	55	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+28	1966	48	61	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+29	1966	52	59	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+30	1966	45	50	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+31	1967	47	57	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+32	1967	48	50	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+33	1967	51	54	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+34	1968	57	57	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+35	1969	56	53	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+36	1972	183	56	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+37	1973	181	50	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+38	1972	186	177	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+39	1973	182	182	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+40	1968	73	182	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+41	1969	70	174	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+42	1968	71	49	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+43	1969	68	58	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+44	1967	85	54	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+45	1967	88	50	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+46	1967	96	57	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+47	1967	106	55	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+48	1967	119	60	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+49	1967	123	56	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+50	1971	133	59	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+51	1971	136	53	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+52	1971	149	54	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+53	1971	160	58	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+54	1971	168	49	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+55	1971	175	54	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+56	1966	91	53	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+57	1966	90	57	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+58	1966	95	61	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+59	1966	106	58	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+60	1966	122	62	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+61	1966	126	58	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+62	1970	130	61	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+63	1970	131	56	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+64	1970	145	55	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+65	1970	159	55	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+66	1970	166	51	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+67	1970	174	50	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+68	1972	186	92	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+69	1973	189	90	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+70	1972	189	107	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+71	1973	191	113	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+72	1972	185	132	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+73	1973	190	135	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+74	1972	185	166	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+75	1973	189	168	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+76	1968	70	92	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+77	1969	65	90	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+78	1968	64	105	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+79	1969	64	111	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+80	1968	69	131	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+81	1969	65	131	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+82	1968	62	160	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+83	1969	67	164	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+84	1975	105	120	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+85	1975	104	87	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+86	1975	150	87	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+87	1975	151	119	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+88	1975	150	101	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+89	1975	106	101	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+90	1975	127	121	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+91	1975	127	80	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	0	0	//Troll Hunter
+92	1966	125	73	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+93	1970	129	73	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+94	1967	124	79	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+95	1971	131	78	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+96	1969	125	76	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+97	1973	128	76	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+98	1967	107	84	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+99	1967	105	91	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+100	1968	99	88	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+101	1969	106	97	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+102	1969	106	105	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+103	1971	148	84	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+104	1971	150	90	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+105	1972	154	87	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+106	1973	150	98	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+107	1973	150	104	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+108	1967	108	122	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+109	1967	107	116	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+110	1968	100	118	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+111	1968	99	123	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+112	1968	103	124	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Watchman Do Capella
+113	1971	147	120	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+114	1971	149	114	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+115	1972	154	123	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+116	1972	154	118	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+117	1972	153	114	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	153	0	//Senior Watchman Do Procyon
+118	1969	123	123	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+119	1969	119	126	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	152	0	//Senior Knight Shin Capella
+120	1973	131	122	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+121	1973	133	126	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	155	0	//Senior Knight Shin Procyon
+122	1967	92	161	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+123	1967	102	162	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+124	1967	108	156	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+125	1971	160	163	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+126	1971	151	162	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+127	1971	145	154	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+128	1966	91	157	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+129	1966	97	163	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+130	1966	106	159	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+131	1966	107	151	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	148	0	//Watchman Mu Capella
+132	1970	163	157	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+133	1970	155	165	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+134	1970	146	159	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+135	1970	147	150	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	149	0	//Watchman Mu Procyon
+136	1967	118	147	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+137	1967	119	150	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+138	1967	119	154	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	150	0	//Watchman Ye Capella
+139	1971	133	154	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+140	1971	134	151	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+141	1971	134	147	3	3	10000	1	<null>	<null>	<null>	0	0	0	0	0	0	151	0	//Watchman Ye Procyon
+	
+																			
+[MissionMMAP]	QDungeonIdx	MMapidx	Cells																
+																			
+																			
+																			
